@@ -2,6 +2,8 @@
 
 Welcome to Cafeterion, a mobile application built with Kotlin to simplify the food ordering process within university campuses.
 
+*Remember: The owner's edition is [here](https://github.com/reprogamaco/cafe-owner-android-application).For full expirience one should use [customer app](https://github.com/reprogamaco/cafeterion-customers-app), [cafe deliver app/cafe's owner](https://github.com/reprogamaco/cafe-owner-android-application) and [cafeterion server](https://github.com/reprogamaco/) for full experience and performance.*
+
 ## Features
 
 - **User Authentication:** Securely manage user accounts for a personalized experience.
