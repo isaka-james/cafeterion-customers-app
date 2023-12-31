@@ -30,23 +30,32 @@ Make sure you have the following installed:
 2. Open the project in Android Studio and build the application.
 
 
-## Screenshots
+## Sample Screenshots
 
-![Screenshot 1](imgs/cafeterion-intro.jpeg)
-*The splash screen of the cafeterion customers app*
+<div style="margin: 50px">
+<img src="imgs/cafeterion-intro.jpeg" alt="Screenshot 1" style="height: 700px;"/>
+The splash screen of the cafeterion customers app
+</div>
 
-![Screenshot 2](imgs/cafeterion-form.jpeg)
-*The login form of the cafeterion customers app*
+<div style="margin: 50px">
+<img src="imgs/cafeterion-form.jpeg" alt="Screenshot 2" style="height: 700px;"/>
+The login form of the cafeterion customers app
+</div>
 
-![Screenshot 1](imgs/cafeterion-home.jpeg)
-*The homepage of the cafeterion customers app showing the categories*
+<div style="margin: 50px">
+<img src="imgs/cafeterion-home.jpeg" alt="Screenshot 3" style="height: 700px;"/>
+The homepage of the cafeterion customers app showing the categories
+</div>
 
+<div style="margin: 50px">
+<img src="imgs/cafeterion.jpeg" alt="Screenshot 4" style="height: 700px;"/>
+The homepage showing the trending and recently foods ordered
+</div>
 
-![Screenshot 1](imgs/cafeterion.jpeg)
-*The homepage showing the trending and recently foods ordered*
-
-![Screenshot 2](imgs/cafeterion-order.jpeg)
-*The place for placing orders*
+<div style="margin: 50px">
+<img src="imgs/cafeterion-order.jpeg" alt="Screenshot 5" style="height: 700px;"/>
+The place for placing orders
+</div>
 
 ## Notice
 The project was made from Stratch.
