@@ -30,6 +30,23 @@ Make sure you have the following installed:
 2. Open the project in Android Studio and build the application.
 
 
+## Screenshots
+
+![Screenshot 1](imgs/cafeterion-intro.jpeg)
+*The splash screen of the cafeterion customers app*
+
+![Screenshot 2](imgs/cafeterion-form.jpeg)
+*The login form of the cafeterion customers app*
+
+![Screenshot 1](imgs/cafeterion-home.jpeg)
+*The homepage of the cafeterion customers app showing the categories*
+
+
+![Screenshot 1](imgs/cafeterion.jpeg)
+*The homepage showing the trending and recently foods ordered*
+
+![Screenshot 2](imgs/cafeterion-order.jpeg)
+*The place for placing orders*
 
 ## Notice
 The project was made from Stratch.
