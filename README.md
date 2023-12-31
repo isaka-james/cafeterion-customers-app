@@ -11,6 +11,24 @@ Welcome to Cafeterion, a mobile application built with Kotlin to simplify the fo
 - **Order Tracking:** Stay updated with real-time status notifications for your placed orders.
 - **Notification System:** Receive timely alerts for order confirmations and updates.
 
+### Prerequisites
+
+Make sure you have the following installed:
+
+- [Android Studio](https://developer.android.com/studio)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/reprogamaco/cafeterion-customers-app.git
+   ```
+   
+2. Open the project in Android Studio and build the application.
+
+
+
 
 ## App Functionality
 
@@ -30,23 +48,6 @@ The app is fully operational, providing a smooth user experience. Please note th
    - Find the server endpoint configuration and update it to match the address where you launched the Cafeterion server.
 
 Now, you're ready to enjoy the full features of Cafeterion! If you encounter any issues or need assistance with the username and password, refer to the server files or database on the server.
-
-
-### Prerequisites
-
-Make sure you have the following installed:
-
-- [Android Studio](https://developer.android.com/studio)
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/reprogamaco/cafeterion-customers-app.git
-   ```
-   
-2. Open the project in Android Studio and build the application.
 
 
 ## Sample Screenshots
