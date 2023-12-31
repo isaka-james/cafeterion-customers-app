@@ -11,7 +11,26 @@ Welcome to Cafeterion, a mobile application built with Kotlin to simplify the fo
 - **Order Tracking:** Stay updated with real-time status notifications for your placed orders.
 - **Notification System:** Receive timely alerts for order confirmations and updates.
 
-## Getting Started
+
+## App Functionality
+
+The app is fully operational, providing a smooth user experience. Please note that to use the Cafeterion app, you need to connect to the Cafeterion server, which is hosted at [Reprogamaco's GitHub repository](https://github.com/reprogamaco). Follow these steps to ensure proper functionality:
+
+1. **Launch the Cafeterion Server:**
+   - Visit [https://github.com/reprogamaco](https://github.com/reprogamaco).
+   - Locate the Cafeterion server repository and follow the provided instructions to launch the server.
+
+2. **Locate Username and Password:**
+   - To access the Cafeterion app, find the username and password in the server files or database on the server.
+   - Navigate to the server repository and check relevant configuration files or database entries.
+
+3. **Modify Server Endpoint in Cafeterion App:**
+   - Once the server is up and running, open the Cafeterion app.
+   - Navigate to the settings or configuration section within the app.
+   - Find the server endpoint configuration and update it to match the address where you launched the Cafeterion server.
+
+Now, you're ready to enjoy the full features of Cafeterion! If you encounter any issues or need assistance with the username and password, refer to the server files or database on the server.
+
 
 ### Prerequisites
 
