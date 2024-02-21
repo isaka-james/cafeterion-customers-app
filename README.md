@@ -1,11 +1,11 @@
 # cafeterion-customers-app 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paradoxmain&label=Project%20viewed&color=0e75b6&style=flat" alt="paradoxmain" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cafe-owner&label=cafeterion-customers-app&color=0e75b6&style=flat" alt="paradoxmain" /> </p>
 
 Welcome to Cafeterion, a mobile application built with Kotlin to simplify the food ordering process within university campuses.
 
-*Remember: The owner's edition is [here](https://github.com/reprogamaco/cafe-owner-android-application).For full expirience one should use [customer app](https://github.com/reprogamaco/cafeterion-customers-app), [cafe deliver app/cafe's owner](https://github.com/reprogamaco/cafe-owner-android-application) and [cafeterion server](https://github.com/reprogamaco/) for full experience and performance.*
+*Remember: The owner's edition is [here](https://github.com/isaka-james/cafe-owner-android-application).For full expirience one should use [customer app](https://github.com/isaka-james/cafeterion-customers-app), [cafe deliver app/cafe's owner](https://github.com/isaka-james/cafe-owner-android-application) and [cafeterion server](https://github.com/isaka-james/) for full experience and performance.*
 
 ## Features
 
@@ -27,7 +27,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/reprogamaco/cafeterion-customers-app.git
+   git clone https://github.com/isaka-james/cafeterion-customers-app.git
    ```
    
 2. Open the project in Android Studio and build the application.
@@ -37,10 +37,10 @@ Make sure you have the following installed:
 
 ## App Functionality
 
-The app is fully operational, providing a smooth user experience. Please note that to use the Cafeterion app, you need to connect to the Cafeterion server, which is hosted at [Reprogamaco's GitHub repository](https://github.com/reprogamaco). Follow these steps to ensure proper functionality:
+The app is fully operational, providing a smooth user experience. Please note that to use the Cafeterion app, you need to connect to the Cafeterion server, which is hosted at [isaka-james's GitHub repository](https://github.com/isaka-james). Follow these steps to ensure proper functionality:
 
 1. **Launch the Cafeterion Server:**
-   - Visit [https://github.com/reprogamaco](https://github.com/reprogamaco).
+   - Visit [https://github.com/isaka-james](https://github.com/isaka-james).
    - Locate the Cafeterion server repository and follow the provided instructions to launch the server.
 
 2. **Locate Username and Password:**
